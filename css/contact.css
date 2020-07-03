@@ -1,0 +1,27 @@
+.table_form tr{
+  height: 7rem;
+}
+.table_form th{
+  width: 150px;
+  text-align: right;
+  padding-right: 10px;
+}
+.table_form td{
+  width: 480px;
+}
+.table_form .box{
+  width: 100%;
+}
+td[name="submit"]{
+  text-align: center;
+}
+input[name="submit-buttan"]{
+  background-color: #339999;
+  width: 90px;
+  height: 50px;
+  font-size: 3rem;
+  color: white;
+}
+input[name="submit-buttan"]:hover{
+  opacity:0.5;
+}
